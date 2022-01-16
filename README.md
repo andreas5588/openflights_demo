@@ -47,6 +47,10 @@ Thats it! Now you should see a running a group of two containers like this:
 http://localhost:8080
 ```
 
+This little video shows how simple you can work now with InterSystems IRIS and Apache Zeppelin
+
+
+[![demo video](http://img.youtube.com/vi/uzwmpE7Hsqc/0.jpg)](https://youtu.be/uzwmpE7Hsqc)
 
 
 [![Gitter](https://img.shields.io/badge/Available%20on-Intersystems%20Open%20Exchange-00b2a9.svg)](https://openexchange.intersystems.com/package/openflights_dataset)
