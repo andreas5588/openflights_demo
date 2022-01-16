@@ -24,12 +24,12 @@ To start working with this example project do the following:
 1. Clone/git pull this repo into any local directory
 
 ```shell
-git clone https://github.com/andreas5588/openflights_dataset.git
+git clone https://github.com/andreas5588/openflights_demo.git
 ```
 
 2. Open the console in the repo directory and run:
 
-By default the Container ports  [![Docker-ports](https://img.shields.io/badge/dynamic/yaml?color=blue&label=docker-compose&prefix=ports%20-%20&query=%24.services.iris.ports&url=https%3A%2F%2Fraw.githubusercontent.com%2Fandreas5588%2Fopenflights_dataset%2Fmaster%2Fdocker-compose.yml)](https://raw.githubusercontent.com/andreas5588/openflights_dataset/master/docker-compose.yml) are mapped to the same local ports. Please check the availability of the ports on your maschine first.
+By default the Container ports  [![Docker-ports](https://img.shields.io/badge/dynamic/yaml?color=blue&label=docker-compose&prefix=ports%20-%20&query=%24.services.iris.ports&url=https%3A%2F%2Fraw.githubusercontent.com%2Fandreas5588%2Fopenflights_demo%2Fmaster%2Fdocker-compose.yml)](https://raw.githubusercontent.com/andreas5588/openflights_demo/master/docker-compose.yml) are mapped to the same local ports. Please check the availability of the ports on your maschine first.
 
 ```shell
 docker-compose up -d
@@ -38,7 +38,7 @@ docker-compose up -d
 Thats it! Now you should see a running a group of two containers like this:
 
 
-![running container group](doc\running-container-group.png)
+![running container group](/doc/running-container-group.png)
 
 
 3. Open your browser:
