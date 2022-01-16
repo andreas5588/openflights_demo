@@ -41,7 +41,7 @@ Thats it! Now you should see a running a group of two containers like this:
 ![running container group](/doc/running-container-group.png)
 
 
-3. Open your browser:
+3. Open your browser to start the Apache Zeppelin Notebook:
 
 ```shell
 http://localhost:8080
